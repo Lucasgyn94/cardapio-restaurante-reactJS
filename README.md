@@ -1,3 +1,18 @@
+# Sobre
+- Projeto de um Cardápio de Restaurante desenvolvido com reactJS.
+
+## Característica
+- Utilizado o hook useState para gerenciar os estados de nossos componentes e permitir atualização em tempo real, baseado em eventos vindo de nosso usuário.
+- Utilizado media queries para deixar nosso layout responsivo em diversos tamanhos de telas.
+  
+## Site
+![image](https://github.com/Lucasgyn94/cardapio-restaurante-reactJS/assets/91031320/3f35021b-f764-4726-b521-6037a6a26fa3)
+![image](https://github.com/Lucasgyn94/cardapio-restaurante-reactJS/assets/91031320/b52aa927-1101-489c-abf0-b096a65ec2bb)
+
+## Layout
+
+![image](https://github.com/Lucasgyn94/cardapio-restaurante-reactJS/assets/91031320/6ff1c2fc-f30c-490c-8205-c8ef2fb48c01)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
