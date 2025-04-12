@@ -6,7 +6,7 @@
 - Utilizado media queries para deixar nosso layout responsivo em diversos tamanhos de telas.
   
 ## Link do site
-👉 [Acesse aqui pela Vercel](https://cardapio-restaurante-hazel.vercel.app/)
+👉 [Acesse aqui pela Vercel](https://cardapio-restaurante-hazel.vercel.app/)</br>
 👉 [Acesse aqui pelo GitHub Pages](https://lucasgyn94.github.io/cardapio-restaurante)
 
 ## Layout
