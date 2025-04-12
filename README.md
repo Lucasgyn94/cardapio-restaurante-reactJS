@@ -1,12 +1,13 @@
 # Sobre
-- Projeto de um Cardápio de Restaurante desenvolvido com reactJS.
+- Projeto de um Cardápio de Restaurante desenvolvido com ReactJS.
 
 ## Característica
 - Utilizado o hook useState para gerenciar os estados de nossos componentes e permitir atualização em tempo real, baseado em eventos vindo de nosso usuário.
 - Utilizado media queries para deixar nosso layout responsivo em diversos tamanhos de telas.
   
 ## Link do site
-👉 [Acesse aqui](https://cardapio-restaurante-hazel.vercel.app/)
+👉 [Acesse aqui pela Vercel](https://cardapio-restaurante-hazel.vercel.app/)
+👉 [Acesse aqui pelo GitHub Pages](https://lucasgyn94.github.io/cardapio-restaurante)
 
 ## Layout
 
