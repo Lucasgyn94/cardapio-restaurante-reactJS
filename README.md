@@ -5,9 +5,8 @@
 - Utilizado o hook useState para gerenciar os estados de nossos componentes e permitir atualização em tempo real, baseado em eventos vindo de nosso usuário.
 - Utilizado media queries para deixar nosso layout responsivo em diversos tamanhos de telas.
   
-## Site
-![image](https://github.com/Lucasgyn94/cardapio-restaurante-reactJS/assets/91031320/3f35021b-f764-4726-b521-6037a6a26fa3)
-![image](https://github.com/Lucasgyn94/cardapio-restaurante-reactJS/assets/91031320/b52aa927-1101-489c-abf0-b096a65ec2bb)
+## Link do site
+👉![Acesse aqui](https://cardapio-restaurante-hazel.vercel.app/)
 
 ## Layout
 
